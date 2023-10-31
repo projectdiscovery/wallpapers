@@ -4,7 +4,6 @@ This repository contains a collection of ProjectDiscovery wallpapers.
 
 ## Index
 
-
 | | | | | |
 |-|-|-|-|-|
 | ![contributors-pixel](contributors-pixel.jpg) | ![gradient-matrix](gradient-matrix.jpg) | ![pd-floppy](pd-floppy.jpg) | ![pd-retro-devices-synth](pd-retro-devices-synth.png) | ![pd-retro-devices](pd-retro-devices.png) |
